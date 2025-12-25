@@ -8,3 +8,4 @@ xgboost
 imbalanced-learn
 cloudpickle
 azureml-inference-server-http
+plotly
