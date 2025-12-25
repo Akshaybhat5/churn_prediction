@@ -254,7 +254,7 @@ else:
     # Empty state
     st.markdown("""
     <div style="text-align: center; padding: 100px; color: #666;">
-        <h2>👆 Upload a CSV file to get started</h2>
+        <h2> Upload a CSV file to get started</h2>
      
     </div>
     """, unsafe_allow_html=True)
