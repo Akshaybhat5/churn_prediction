@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn==1.7.2
+Pathlib
+seaborn
+xgboost
+imbalanced-learn
+cloudpickle
+azureml-inference-server-http
