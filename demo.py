@@ -255,6 +255,6 @@ else:
     st.markdown("""
     <div style="text-align: center; padding: 100px; color: #666;">
         <h2>👆 Upload a CSV file to get started</h2>
-        <p>Or click "Load Sample Data" in the sidebar</p>
+     
     </div>
     """, unsafe_allow_html=True)
