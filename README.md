@@ -1,1 +1,1 @@
-# churn_prediction
+# Customer Churn Prediction
